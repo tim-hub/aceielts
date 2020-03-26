@@ -30,7 +30,7 @@ export default function App() {
         <Typography component="p" align={'center'} gutterBottom>
           Thanks for your kindly love, as a side project and a small team, waht we can do only is to offer our love and better product to you.
 
-          It is scheduled under maintain between 28 ~ 29 March 2020 (+13:00)
+          It is scheduled under maintain until 29 March 2020 (+13:00)
         </Typography>
         <ProTip />
         <Copyright />
