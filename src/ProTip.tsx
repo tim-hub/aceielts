@@ -27,11 +27,9 @@ const useStyles = makeStyles((theme: Theme) =>
 export default function ProTip() {
   const classes = useStyles();
   return (
-    <Typography className={classes.root} color="textSecondary">
+    <Typography className={classes.root} color="textSecondary" align={'center'}>
       <LightBulbIcon className={classes.lightBulb} />
-      Pro tip: See more{' '}
-      <Link href="https://material-ui.com/getting-started/templates/">templates</Link> on the
-      Material-UI documentation.
+      Will bring a stabler ace ielts for you, and more sunrising features in coming weeks/months.
     </Typography>
   );
 }
